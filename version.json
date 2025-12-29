@@ -2,12 +2,13 @@
   "changeLog": "Correction bugs impression et ajout menu Stock.",
   "android": {
     "versionCode": 2,
-    "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/netfact2-v1.4.apk"
+    "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/netfact2-v1.5.apk"
   },
   "windows": {
     "versionCode": 2,
     "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2_Setup.exe"
   }
 }
+
 
 
