@@ -1,11 +1,13 @@
 {
   "changeLog": "Correction versement BL.",
   "android": {
-    "versionCode": 1.0.0.1,
+    "versionCode": 3, 
+    "versionName": "1.8.0",
     "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/netfact2-v1.8.apk"
   },
   "windows": {
     "versionCode": 2,
+    "versionName": "1.1.0",
     "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2_Setup.exe"
   }
 }
