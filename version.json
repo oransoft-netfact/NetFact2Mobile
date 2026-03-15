@@ -6,7 +6,7 @@
     "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/app-arm64-v8a-gestion-release.apk"           
   },
   "windows": {
-    "versionCode": 1,
+    "versionCode": 0,
     "versionName": "1.8.0",
     "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/setup.exe"
   }
