@@ -1,7 +1,7 @@
 {
   "changeLog": "Correctifs et améliorations",
   "android": {
-    "versionCode": 6,
+    "versionCode": 7,
     "versionName": "1.8.0",
     "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/v1.8.0/app.apk"
   },
