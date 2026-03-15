@@ -13,7 +13,19 @@
 }
 
 
-
+{
+  "changeLog": "Correctifs et améliorations",
+  "android": {
+    "versionCode": 6,
+    "versionName": "1.8.0",
+    "url": "https://github.com/.../releases/download/v1.8.0/app.apk"
+  },
+  "windows": {
+    "versionCode": 6,
+    "versionName": "1.8.0",
+    "url": "https://github.com/.../releases/download/v1.8.0/setup.exe"
+  }
+}
 
 
 
