@@ -1,35 +1,13 @@
 {
-  "changeLog": "Correction versement BL.",
-  "android": {
-    "versionCode": 6, 
-    "versionName": "1.8.0",
-    "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/netfact2-v1.8.apk"
-  },
-  "windows": {
-    "versionCode": 2,
-    "versionName": "1.1.0",
-    "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2_Setup.exe"
-  }
-}
-
-
-{
   "changeLog": "Correctifs et améliorations",
   "android": {
     "versionCode": 6,
     "versionName": "1.8.0",
-    "url": "https://github.com/.../releases/download/v1.8.0/app.apk"
+    "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/v1.8.0/app.apk"
   },
   "windows": {
     "versionCode": 6,
     "versionName": "1.8.0",
-    "url": "https://github.com/.../releases/download/v1.8.0/setup.exe"
+    "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/v1.8.0/setup.exe"
   }
 }
-
-
-
-
-
-
-
