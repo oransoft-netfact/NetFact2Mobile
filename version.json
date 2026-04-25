@@ -1,7 +1,7 @@
 {
   "changeLog": "Correctifs et améliorations",
   "android": {
-    "versionCode": 3866,
+    "versionCode": 3868,
     "versionName": "1.9.0",
     "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/app-arm64-v8a-gestion-release.apk"           
   },
