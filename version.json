@@ -7,6 +7,8 @@
   "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2Mobile_setup_v1.9.0+5971_2026-08-09_12-09-34.exe"
   },
   "web": { "versionCode": 1, "versionName": "1.0.0" },
+  "changeLog": "Correctifs API", "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2_Web_setup_v1.9.0+5971_2026-08-09_12-14-20.exe"
+  },
   "api": { "versionCode": 2, "versionName": "1.0.1",
   "changeLog": "Correctifs API", "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2API_Pack.zip"
   }
