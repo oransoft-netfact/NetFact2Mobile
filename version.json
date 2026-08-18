@@ -4,10 +4,10 @@
   "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/app-arm64-v8a-gestion-release.apk" 
   },
   "windows": { "versionCode": 5971, "versionName": "1.9.0",
-  "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2Mobile_setup_v1.9.0+5971_2026-08-09_12-09-34.exe"
+  "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2Mobile_setup_v1.9.0+5974_2026-08-16_22-16-21.exe"
   },
   "web": { "versionCode": 1, "versionName": "1.0.0" },
-  "changeLog": "Correctifs API", "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2_Web_setup_v1.9.0+5971_2026-08-09_12-14-20.exe"
+  "changeLog": "Correctifs API", "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/NetFact2_Web_setup_v1.9.0+5972_2026-08-10_14-45-43.exe"
   },
   "api": { "versionCode": 2, "versionName": "1.0.1",
   "changeLog": "Correctifs API", "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2API_Pack.zip"
