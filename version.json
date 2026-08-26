@@ -3,7 +3,7 @@
   "android": { "versionCode": 7973, "versionName": "1.9.0",
   "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/app-arm64-v8a-gestion-release.apk" 
   },
-  "windows": { "versionCode": 5971, "versionName": "1.9.0",
+  "windows": { "versionCode": 5978, "versionName": "1.9.0",
   "url": "https://github.com/oransoft-netfact/NetFact2Mobile/releases/download/Application/NetFact2Mobile_setup_v1.9.0+5974_2026-08-16_22-16-21.exe"
   },
   "web": { "versionCode": 1, "versionName": "1.0.0" },
